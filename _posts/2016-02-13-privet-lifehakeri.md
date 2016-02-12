@@ -3,6 +3,7 @@ layout: post
 title: "Привет Lifehakers"
 image: header.jpg
 video: false
+tags: "привет мир, перевод с англииского"
 ---
 
 ## Я очень рад!
